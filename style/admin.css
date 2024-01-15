@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.tb{
+    width: 1000px;
+    margin:100px auto ;
+}
+.delet path{
+    cursor: pointer;
+    fill: red;
+}
+.edit path{
+    cursor: pointer;
+    fill: green;
+}
